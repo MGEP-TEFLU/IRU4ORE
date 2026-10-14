@@ -1,0 +1,17 @@
+{
+    "power_curve_data": [
+    {
+        "nominal_power_in_kw": 15000,
+        "hub_height_in_m": 150,
+        "cut_in_speed_in_ms": 3,
+        "rated_speed_in_ms": 10.59,
+        "cut_out_speed_in_ms": 25,
+        "polynomial_grade": 5,
+        "polynomial_coefficients": [
+            -0.215101,
+            17.123,
+            73.2015,
+            520.583
+        ]
+    }]
+}
